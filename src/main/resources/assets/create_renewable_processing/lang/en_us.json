@@ -1,0 +1,13 @@
+{
+  "itemGroup.create_renewable_processing": "Example Mod Tab",
+  "block.create_renewable_processing.example_block": "Example Block",
+  "item.create_renewable_processing.example_item": "Example Item",
+
+  "create_renewable_processing.configuration.title": "Create: Renewable Processing Configs",
+  "create_renewable_processing.configuration.section.create_renewable_processing.common.toml": "Create: Renewable Processing Configs",
+  "create_renewable_processing.configuration.section.create_renewable_processing.common.toml.title": "Create: Renewable Processing Configs",
+  "create_renewable_processing.configuration.items": "Item List",
+  "create_renewable_processing.configuration.logDirtBlock": "Log Dirt Block",
+  "create_renewable_processing.configuration.magicNumberIntroduction": "Magic Number Text",
+  "create_renewable_processing.configuration.magicNumber": "Magic Number"
+}
