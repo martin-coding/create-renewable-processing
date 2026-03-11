@@ -1,7 +1,8 @@
 {
-  "itemGroup.create_renewable_processing": "Example Mod Tab",
-  "block.create_renewable_processing.example_block": "Example Block",
-  "item.create_renewable_processing.example_item": "Example Item",
+  "item.create_renewable_processing.ash": "Volcanic Ash",
+
+  "block.create_renewable_processing.limestone_powder": "Limestone Powder",
+  "block.create_renewable_processing.crushed_basalt": "Crushed Basalt",
 
   "create_renewable_processing.configuration.title": "Create: Renewable Processing Configs",
   "create_renewable_processing.configuration.section.create_renewable_processing.common.toml": "Create: Renewable Processing Configs",

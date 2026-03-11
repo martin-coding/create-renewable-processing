@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create_renewable_processing:crushed_basalt"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.12,
+      "id": "create:copper_nugget"
+    }
+  ]
+}

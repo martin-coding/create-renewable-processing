@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "create_renewable_processing:block/crushed_basalt"
+      },
+      {
+        "model": "create_renewable_processing:block/crushed_basalt",
+        "y": 90
+      },
+      {
+        "model": "create_renewable_processing:block/crushed_basalt",
+        "y": 180
+      },
+      {
+        "model": "create_renewable_processing:block/crushed_basalt",
+        "y": 270
+      }
+    ]
+  }
+}

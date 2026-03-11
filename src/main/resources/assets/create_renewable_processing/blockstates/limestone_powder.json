@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "create_renewable_processing:block/limestone_powder"
+      },
+      {
+        "model": "create_renewable_processing:block/limestone_powder",
+        "y": 90
+      },
+      {
+        "model": "create_renewable_processing:block/limestone_powder",
+        "y": 180
+      },
+      {
+        "model": "create_renewable_processing:block/limestone_powder",
+        "y": 270
+      }
+    ]
+  }
+}

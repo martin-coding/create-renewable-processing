@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "create_renewable_processing:block/crushed_basalt"
+  }
+}

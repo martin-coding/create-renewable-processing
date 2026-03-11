@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    },
+    {
+      "item": "create_renewable_processing:ash"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:tuff"
+    }
+  ]
+}

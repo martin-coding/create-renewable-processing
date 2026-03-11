@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create_renewable_processing:limestone_powder"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.02,
+      "id": "create:zinc_nugget"
+    }
+  ]
+}
