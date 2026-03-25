@@ -1,4 +1,4 @@
-# Create: Resource Recycling (NeoForge)
+# Create: Renewable Processing (NeoForge)
 
 Turn renewable stones from Create into valuable resources with new processing chains.
 
@@ -8,53 +8,23 @@ This small addon for the Create mod gives a purpose to some renewable stone type
 
 ### New Items
 
-* **Volcanic Ash**
-  Crushed scoria.
+* **Volcanic Ash:**
+  Obtained by crushing scoria.
 
-* **Limestone Powder**
-  Crushed limestone that can be further processed into useful items.
+* **Limestone Powder:**
+  Obtained by crushing limestone.
 
-* **Crushed Basalt**
-  Crushed basalt that can be washed to extract metals.
+* **Crushed Basalt:**
+  Obtained by crushing basalt.
 
-## Processing Chains
+### New Recipes
 
-This mod integrates with Create's automation mechanics to turn renewable blocks into resources.
-
-### Volcanic Ash
-
-Generated from basalt processing.
-
-**Use:**
-
-* Can be pressed into **Tuff**.
-
-### Limestone Powder
-
-Produced by crushing limestone.
-
-**Use:**
-
-* Process into **Calcite**.
-* Wash for **Zinc**.
-
-### Crushed Basalt
-
-Obtained by crushing basalt.
-
-**Use:**
-
-* **Bulk Washing** can extract **Copper Nuggets**.
-
-## Why?
-
-Create allows several generators that produce renewable stone such as:
-
-* Basalt generators
-* Lava + Honey/Chocolate from Create
-
-These stones don't have use cases besides building.
-This mod adds lightweight processing chains so they can be converted into useful resources.
+* Press **Volcanic Ash** into **Tuff**.
+* Process **Limestone Powder** into **Calcite**.
+* Wash **Limestone Powder** for **Zinc Nuggets**.
+* Wash **Crushed Basalt** for **Copper Nuggets**.
+* Mix **Gravel & Dirt** for **Coarse Dirt**.
+* Mix **Cobblestone & Quartz** for **Diorite**.
 
 ## Requirements
 
@@ -66,12 +36,8 @@ This mod adds lightweight processing chains so they can be converted into useful
 
 1. Install **NeoForge for Minecraft 1.21.1**
 2. Install the **Create mod**
-3. Place this mod `.jar` in your `mods` folder
+3. Place this mod `.jar` in your `mods` folder (found under releases)
 4. Launch the game
-
-## Automation Friendly
-
-Perfect for fully automated factories.
 
 ---
 
